@@ -1,2 +1,4 @@
 asd1614	
 jageryzhong@outlook.com
+
+not git add ,git just not will commit
